@@ -1,6 +1,5 @@
 {
   "exclude": [
-    ".eslintrc.js"
   ],
   "compilerOptions": {
     "target": "es2020",
